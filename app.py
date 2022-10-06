@@ -5,7 +5,7 @@ from torchvision.utils import save_image
 
 
 generator = Generator(1)
-generator.load_state_dict(torch.load("./generator.pth", map_location=torch.device('cpu')))
+generator.load_state_dict(torch.load("./model/generator.pth", map_location=torch.device('cpu')))
 generator.eval()
 
 
