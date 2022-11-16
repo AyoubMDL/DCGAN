@@ -10,6 +10,6 @@ In this project I have implemented the DCGAN (DEEP CONVOLUTIONAL GENERATIVE ADVE
 
 ![image info](./result/demo.png)
 
-## Deployement
+## Deployment
 
 I have deployed this app using **huggingFace space**, check the app [App](https://huggingface.co/spaces/AyoubMDL/DCGAN).
